@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @josemaina
 - 👀 I’m interested in ...Software Development
 - 🌱 I’m currently learning ...information technology
-- 💞️ I’m looking to collaborate on ...web development, cyber security, IT manager
+- 💞️ I’m looking to collaborate on ...Mobile app development, web development, cyber security, IT manager
 - 📫 How to reach me ...josemainageek@gmail.com
 
 <!---
